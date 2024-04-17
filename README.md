@@ -1,8 +1,6 @@
-# OwenWowson Discord Bot
+# <img alt="Bot logo" src="img/logo.png"  width="30"> OwenWowson Discord Bot
 
-Discord bot for wowing your friends
-
-<img align="right" alt="Bot logo" hspace="20" src="img/logo.png"  width="200">
+A Discord bot for wowing your friends
 
 ## Quick Launch
 ```bash
